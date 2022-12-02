@@ -9,3 +9,4 @@
 8-James_Bond-this script give permission only to the user
 9-John_Doe - this script give permission in certain format
 10-mirror_permissions - setting permision for two file in the same directory
+12-directory_permissions - 751 permission
