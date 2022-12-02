@@ -10,3 +10,4 @@
 9-John_Doe - this script give permission in certain format
 10-mirror_permissions - setting permision for two file in the same directory
 12-directory_permissions - 751 permission
+100-change_owner_and_group - This script change the owner and the group owner
